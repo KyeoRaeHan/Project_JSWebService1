@@ -5,6 +5,4 @@ JS기반 인터랙티브웹서비스
 ![1](https://user-images.githubusercontent.com/59241047/168846054-66cd6128-b99b-4b84-ad0b-43fa05cad882.PNG)
 
 ## 기술스택
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=js&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=js&logoColor=white">
